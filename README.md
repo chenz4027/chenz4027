@@ -5,7 +5,6 @@ I love building Web applications using React.
 ⚡ Fun Facts:
 - 👯 I’m looking to collaborate on projects that are using React/Patternfly.
 - 🌱 I’m currently learning React and Typescript.
-- 📫 How to reach me: https://github.com/chenz4027
 - 💞️ PortFolio:https://chenz4027.github.io/
 - 😄 Pronouns: She/Her
 
