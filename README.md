@@ -1,4 +1,4 @@
-## Hi there! I'm Maggie Chen. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> It's nice to meet you.
+## Hi there! I'm Maggie Chen. It's nice to meet you.
 
 I love building Web applications using React.
 
