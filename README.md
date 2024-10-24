@@ -3,8 +3,8 @@
 I love building Web applications using React.
 
 ⚡ Fun Facts:
-- 👯 I’m looking to collaborate on projects that are using React/Patternfly.
-- 🌱 I’m currently using and learning React and Typescript.
+- 👯 I worked on projects that are using React/Patternfly, JavaScript & TypeScript
+- 🌱 I’m currently using golang for backend development.
 - 😄 Pronouns: She/Her
 
  ### ⭐ GitHub Stats
